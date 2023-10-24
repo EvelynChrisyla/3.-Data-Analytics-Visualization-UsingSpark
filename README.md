@@ -12,7 +12,7 @@ Terdapat 7 Dataset:
 
 
 This data analysis was carried out to find:
-- Show Top 5 Customers with the most transactions for customers with Indonesian phone number using pie chart
+- Show Top 5 Customers with the most transactions for customers with Indonesian phone number (+62...) using pie chart
 - Show the frequency of customer spending categories in RamenShop. Each customer Spending Category is determined by below conditions:
 - Show Top 5 Brands with the most transactions for customers with Indonesian phone number using pie chart.
 - Show the amount of revenue for each month within year 2019 using line plot.
